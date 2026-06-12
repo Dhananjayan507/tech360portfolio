@@ -1,5 +1,5 @@
 
-# 🚀 3-Day Next.js Project: E-Commerce Product Explorer
+# 🚀 3-Day Next.js Project: Tech360-mini-portfolio 
 
 A modern Next.js application built in 3 days covering App Router, rendering models, API routes, and deployment.
 
