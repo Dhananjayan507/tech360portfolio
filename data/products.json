@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "slug": "macbook-pro",
+            "name": "MacBook Pro 14\"",
+            "description": "Apple M3 Pro chip with 12-core CPU, 18-core GPU, 16GB RAM, 512GB SSD. Perfect for developers, designers, and creators who need serious power.",
+            "price": 1999,
+            "category": "laptops",
+            "inStock": true,
+            "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+            "rating": 4.8,
+            "reviews": 234
+        },
+        {
+            "id": 2,
+            "slug": "iphone-15",
+            "name": "iPhone 15 Pro",
+            "description": "A17 Pro chip, 48MP main camera with 24MP photos, Titanium design with USB-C. The ultimate smartphone for pros.",
+            "price": 1099,
+            "category": "phones",
+            "inStock": true,
+            "image": "https://images.unsplash.com/photo-1696446702183-cbd13d78e1e7?w=500",
+            "rating": 4.9,
+            "reviews": 567
+        },
+        {
+            "id": 3,
+            "slug": "ipad-pro",
+            "name": "iPad Pro 12.9\"",
+            "description": "M2 chip, Liquid Retina XDR display, Apple Pencil hover support. Perfect for artists, students, and professionals.",
+            "price": 1299,
+            "category": "tablets",
+            "inStock": false,
+            "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+            "rating": 4.7,
+            "reviews": 189
+        },
+        {
+            "id": 4,
+            "slug": "airpods-pro",
+            "name": "AirPods Pro 2",
+            "description": "Active Noise Cancellation, Adaptive Audio, Personalized Spatial Audio, and up to 6 hours of battery life.",
+            "price": 249,
+            "category": "accessories",
+            "inStock": true,
+            "image": "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?w=500",
+            "rating": 4.6,
+            "reviews": 892
+        },
+        {
+            "id": 5,
+            "slug": "apple-watch",
+            "name": "Apple Watch Series 9",
+            "description": "S9 chip, Double tap gesture, Brighter display, advanced health features including ECG and blood oxygen monitoring.",
+            "price": 429,
+            "category": "wearables",
+            "inStock": true,
+            "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500",
+            "rating": 4.5,
+            "reviews": 445
+        }
+    ]
+}
